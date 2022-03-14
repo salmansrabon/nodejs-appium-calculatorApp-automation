@@ -23,3 +23,5 @@ Mochawesome
 ``` npm test ```
 5. A html report will be generated to Reports folder
 
+https://user-images.githubusercontent.com/48891202/158108643-fb1b979f-6390-4c4b-8f4f-f7e751eb8441.mp4
+
